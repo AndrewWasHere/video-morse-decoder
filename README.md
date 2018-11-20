@@ -9,9 +9,9 @@ San Diego, and the subsequent Python application derived from it.
 To decode a (small, grayscale) video of a signal light flashing Morse Code,
 enter the following on the command line:
 
-```$ python -m decode_morse_video.py <path to video>```
+```$ python decode_morse_video.py <path to video>```
 
-To interact with my Jupyter Notebook on decoding a video of a signal light
+To interact with the Jupyter Notebook on decoding a video of a signal light
 flashing Morse Code, create an appropriate conda environment (see Requirements,
 below), and run Jupyter Notebook from this directory.
 
